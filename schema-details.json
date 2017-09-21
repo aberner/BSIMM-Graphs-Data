@@ -170,12 +170,6 @@
       "objective"  : "ensure new hires enhance culture ",
       "proof"      : ""
     },
-    "T.2.7": {
-      "description": "The satellite begins as a collection of people scattered across the organization who show an above-average level of security interest or skill. Identifying this group is a step towards creating a social network that speeds the adoption of security into software development. One way to begin is to track the people who stand out during training courses (see SM2.3 Create or grow a satellite). In general, a volunteer army may be easier to lead than one that is drafted.",
-      "resources"  : [],
-      "objective"  : "create social network tied into dev ",
-      "proof"      : ""
-    },
     "T.3.1": {
       "description": "Knowledge is its own reward, but progression through the security curriculum brings other benefits too. Developers, testers, and others see a career advantage in learning about security. The reward system can be formal and lead to a certification or official mark in the HR system, or it can be less formal and use motivators such as praise letters for the satellite written at annual review time. Involving a corporate training department and/or HR can make security’s impact on career progression more obvious, but the SSG should continue to monitor security knowledge in the firm and not cede complete control or oversight.",
       "resources"  : [],
@@ -206,7 +200,12 @@
       "objective"  : "act as informal resource to leverage teachable moments ",
       "proof"      : ""
     },
-
+    "T.3.6": {
+      "description": "The satellite begins as a collection of people scattered across the organization who show an above-average level of security interest or advanced knowledge of new tech stacks and development methodologies. Identifying this group proactively is a step toward creating a social network that speeds the adoption of security into software development. One way to begin is to track the people who stand out during training courses or office hours (see [SM2.3 Create or grow a satellite]). In general, a volunteer army may be easier to lead than one that is drafted.",
+      "resources"  : [],
+      "objective"  : "create social network tied into dev ",
+      "proof"      : ""
+    },
 
     "AM.1.2": {
       "description": "The organization agrees upon a data classification scheme and uses the scheme to inventory its software according to the kinds of data the software handles. This allows applications to be prioritized by their data classification. Many classification schemes are possible—one approach is to focus on PII. Depending upon the scheme and the software involved, it could be easiest to first classify data repositories, then derive classifications for applications according to the repositories they use. Other approaches to the problem are possible. For example, data could be classified according to protection of intellectual property, impact of disclosure, exposure to attack, relevance to SOX, or geographic boundaries.",
@@ -408,12 +407,6 @@
       "objective"  : "promote a common language for describing architecture ",
       "proof"      : ""
     },
-    "AA.2.3": {
-      "description": "To build an architecture analysis capability outside of the SSG, the SSG advertises itself as a resource or mentor for teams who ask for help using the AA process to conduct their own design review and proactively seek projects to get involved with. The SSG will answer architecture analysis questions during office hours, and in some cases, might assign someone to sit side-by-side with the architect for the duration of the analysis. In the case of high-risk applications or products, the SSG plays a more active mentorship role in applying the AA process.",
-      "resources"  : [],
-      "objective"  : "build capability organization-wide ",
-      "proof"      : ""
-    },
     "AA.3.1": {
       "description": "Software architects throughout the organization lead the architecture analysis process most of the time. The SSG still might contribute to architecture analysis in an advisory capacity or under special circumstances. This activity requires a well-understood and well-documented architecture analysis process. Even in that case, consistency is very difficult to attain because breaking architectures requires so much experience.",
       "resources"  : [],
@@ -426,6 +419,12 @@
       "objective"  : "build proactive security architecture ",
       "proof"      : ""
     },
+    "AA.3.3": {
+      "description": "To build an architecture analysis capability outside of the SSG, the SSG advertises itself as a resource or mentor for teams who ask for help using the AA process (see [AA2.1 Define and use AA process]) to conduct their own design review. The SSG will answer architecture analysis questions during office hours and, in some cases, might assign someone to sit with the architect for the duration of the analysis. In the case of high-risk software, the SSG plays a more active mentorship role in applying the AA process.",
+      "resources"  : [],
+      "objective"  : "build capability organization-wide ",
+      "proof"      : ""
+    },    
     "CR.1.2": {
       "description": "The SSG performs an ad hoc code review for high-risk applications in an opportunistic fashion. For example, the SSG might follow up the design review for high-risk applications with a code review. At higher maturity levels, replace ad hoc targeting with a systematic approach. SSG review could involve the use of specific tools and services, or it might be manual.",
       "resources"  : [],
