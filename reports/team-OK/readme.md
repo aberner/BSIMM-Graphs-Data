@@ -3,7 +3,7 @@
 ### Metadata
 | key | value | 
 |-----|-------| 
-| team | Team A |
+| team | Team OK |
 | security-champion | john smith |
 | source-code-repo | http://abc/git |
 | issue-tracking | http://abc/issues |
