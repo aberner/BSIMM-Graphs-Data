@@ -132,8 +132,6 @@
       "objective"  : "keep policy aligned with reality ",
       "proof"      : ""
     },
-
-
     "T.1.1": {
       "description": "The SSG provides awareness training in order to promote a culture of software security throughout the organization. Training might be delivered by SSG members, by an outside firm, by the internal training organization, or through eLearning. Course content isn’t necessarily tailored for a specific audience. For example, all programmers, quality assurance engineers, and project managers could attend the same ‘Introduction to Software Security’ course. This common activity can be enhanced with a tailored approach to an introductory course that addresses a firm’s culture explicitly. Generic introductory courses covering basic IT security and high-level software security concepts do not generate satisfactory results. Likewise, providing awareness training only to developers and not to other roles is also insufficient.",
       "resources"  : [],
@@ -206,7 +204,6 @@
       "objective"  : "create social network tied into dev ",
       "proof"      : ""
     },
-
     "AM.1.2": {
       "description": "The organization agrees upon a data classification scheme and uses the scheme to inventory its software according to the kinds of data the software handles. This allows applications to be prioritized by their data classification. Many classification schemes are possible—one approach is to focus on PII. Depending upon the scheme and the software involved, it could be easiest to first classify data repositories, then derive classifications for applications according to the repositories they use. Other approaches to the problem are possible. For example, data could be classified according to protection of intellectual property, impact of disclosure, exposure to attack, relevance to SOX, or geographic boundaries.",
       "resources"  : [],
