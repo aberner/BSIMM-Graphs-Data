@@ -75,7 +75,7 @@
     "T.3.3"    :{ "level" :"3", "name" : "Host external software security events"                                                       },
     "T.3.4"    :{ "level" :"3", "name" : "Require an annual refresher"                                                                  },
     "T.3.5"    :{ "level" :"3", "name" : "Establish SSG office hours"                                                                   },
-    "T.3.6"    :{ "level" :"2", "name" : "Identify satellite through training"                                                          },    
+    "T.3.6"    :{ "level" :"3", "name" : "Identify satellite through training"                                                          },    
 
     "AM.1.2"   :{ "level" :"1", "name" : "Create a data classification scheme and inventory"                                            },
     "AM.1.3"   :{ "level" :"1", "name" : "Identify potential attackers"                                                                 },
@@ -115,7 +115,7 @@
     "AA.2.2"   :{ "level" :"2", "name" : "Standardize architectural descriptions (including data flow)"                                 },
     "AA.3.1"   :{ "level" :"3", "name" : "Have software architects lead design review efforts"                                          },
     "AA.3.2"   :{ "level" :"3", "name" : "Drive analysis results into standard architecture patterns"                                   },
-    "AA.3.3"   :{ "level" :"2", "name" : "Make SSG available as AA resource or mentor"                                                  },    
+    "AA.3.3"   :{ "level" :"3", "name" : "Make SSG available as AA resource or mentor"                                                  },    
 
     "CR.1.2"   :{ "level" :"1", "name" : "Have SSG perform ad hoc review"                                                               },
     "CR.1.4"   :{ "level" :"1", "name" : "Use automated tools along with manual review"                                                 },
