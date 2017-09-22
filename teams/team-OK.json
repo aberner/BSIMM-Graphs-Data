@@ -12,11 +12,11 @@
     "activities": {
         "SM.1.1": {
             "value": "Maybe",
-            "proof": "SAMH/ITAS-SIS"
+            "proof": ""
         },
         "SM.1.2": {
             "value": "Yes",
-            "proof": "Andre, Espen, Arne"
+            "proof": ""
         },
         "SM.1.3": {
             "value": "Yes",
@@ -24,11 +24,11 @@
         },
         "SM.1.4": {
             "value": "Yes",
-            "proof": "SAMH/ITAS-SIS"
+            "proof": ""
         },
         "SM.2.1": {
             "value": "Maybe",
-            "proof": "UKESIK/IKT-sikkerhet+UKE+lukket+Home"
+            "proof": ""
         },
         "SM.2.2": {
             "value": "No",
